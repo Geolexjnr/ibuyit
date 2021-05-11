@@ -2,5 +2,5 @@
     <div class="panel-body text-center">
         Panel content
     </div>
-    <div class="panel-footer text-center">Panel footer</div>
+    <div class="panel-footer text-center">Geolex creations</div>
 </div>
