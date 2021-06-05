@@ -73,6 +73,10 @@
 
         width: 500px !important;
     }
+
+    .navbar-brand {
+        font-weight: bolder;
+    }
 </style>
 
 </html>
