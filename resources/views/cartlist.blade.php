@@ -8,7 +8,7 @@
         <div class="trending-wrapper">
 
             <h4>Products in Cart</h4>
-            <a href="buynow" class="btn btn-success">Buy Now</a>
+            <a href="buynow" class="btn btn-success">Buy Now</a><br><br>
             @foreach($products as $item)
 
             <div class=" row searched-item cart-list-divider">
@@ -36,8 +36,13 @@
             </div>
 
             @endforeach
+            <a href="buynow" class="btn btn-success">Buy Now</a>
+
         </div>
-        <a href="buynow" class="btn btn-success">Buy Now</a>
+
+
+        
+
     </div>
 </div>
 </div>
