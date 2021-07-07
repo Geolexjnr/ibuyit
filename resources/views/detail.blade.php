@@ -23,7 +23,7 @@
             </form>
 
             <br><br>
-            <button class="btn btn-success">Buy Now</button>
+            <a href="/buynow" class="btn btn-success">Buy Now</a>
             <br><br>
         </div>
     </div>
